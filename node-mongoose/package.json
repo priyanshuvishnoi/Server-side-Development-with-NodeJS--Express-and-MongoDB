@@ -1,0 +1,14 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Priyanshu Vishnoi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.20"
+  }
+}
